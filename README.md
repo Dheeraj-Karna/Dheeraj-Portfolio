@@ -1,17 +1,12 @@
-# Dheeraj Karna – Marketing Analytics Portfolio
+# Dheeraj Karna – Marketing Data Analytics Portfolio
 
-Welcome! I'm a Senior Marketing Analytics professional with 7+ years of experience bridging digital marketing, web analytics, and data-driven decision-making. This portfolio showcases my hands-on work across **Adobe Analytics (CJA), GA4, Python (Pandas), Tableau, and Looker Studio**—with a focus on **funnel diagnostics, campaign attribution, and customer journey insights**.
+Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experience bridging digital marketing, web analytics, and data-driven decision-making. This portfolio showcases my hands-on work across **Adobe Analytics (CJA), GA4, SQL, Tableau, and Looker Studio**—with a focus on **funnel diagnostics, campaign attribution, and customer journey insights**.
 
 ---
 
 ## What You'll Find Here
 
-### `Codes/`
-Python scripts and logic used for:
-- **Behavioral segmentation** using Python
-- **Campaign performance analysis** with attribution logic
-- **Funnel drop-off detection** and cohort analysis
-- **Data cleaning and transformation** for dashboard-ready datasets
+
 
 Each script includes comments and modular structure for easy reuse in consulting or product analytics environments.
 
