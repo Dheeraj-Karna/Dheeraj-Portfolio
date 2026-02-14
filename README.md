@@ -33,7 +33,7 @@ Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experien
   - Actionable recommendations for marketing teams
   
 ---- 
-### 3. ** E-Commerce SQL Project** 
+### 3. **E-Commerce SQL Project** 
 - **Objective**: End-to-end analysis of e-commerce sales and customer behavior - 
 - **Tech Stack**: SQL + Looker Studio + Tableau
 - **Highlights**:
