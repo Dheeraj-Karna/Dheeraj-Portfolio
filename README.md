@@ -7,7 +7,7 @@ Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experien
 ## About Me 
 - Digital Marketing Analytics & BI Consultant  
 - Skilled in **SQL (BigQuery, MySQL, PostgreSQL)** for data cleaning, aggregation, and analysis  
-- Experienced in **Looker Studio, Tableau, Power BI** for visualization and reporting 
+- Experienced in **Looker Studio, Tableau** for visualization and reporting 
 - Certified in **HackerRank SQL Intermediate**
 - Hands-on with **Adobe Analytics dashboards, segments, and metrics**  
 - Passionate trainer: translating technical logic into **business insights and stories**
