@@ -58,6 +58,7 @@ Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experien
 - Built Adobe Analytics dashboards to analyze 2,000+ cart additions,
   - applying attribution models and segmented 42K+ first‑time visitors vs. paid search audiences
 - Delivered analytics training to cross-functional teams, improving data fluency and adoption
+- Built End‑to‑end E‑Commerce Performance Dashboard analyzing customers, traffic, products, and operations. Reveals top revenue drivers, conversion efficiency, ROAS, and the impact of returns on profitability.”
 
 ---
 ## Career Goal
