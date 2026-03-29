@@ -54,7 +54,7 @@ Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experien
 
 ## Selected Highlights
 
-- Built Google Ads ROI dashboards in Looker Studio, showing ₹3.69m revenue vs. ₹538k cost, proving campaigns are highly profitable
+- Built Google Ads ROI dashboards in Looker Studio, showing €3.69m revenue vs. €538k cost, proving campaigns are highly profitable
 - Built Adobe Analytics dashboards to analyze 2,000+ cart additions,
   - applying attribution models and segmented 42K+ first‑time visitors vs. paid search audiences
 - Delivered analytics training to cross-functional teams, improving data fluency and adoption
