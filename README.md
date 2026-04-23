@@ -1,6 +1,6 @@
 # Dheeraj Karna – Marketing Data Analytics Portfolio
 
-Welcome! I'm a Senior Marketing Analytics professional with 8+ years of experience bridging digital marketing, web analytics, and data-driven decision-making. This portfolio showcases my hands-on work across **Adobe Analytics, GA4, SQL, Tableau, and Looker Studio**—with a focus on **funnel diagnostics, campaign attribution, and customer journey insights**.
+Welcome! I'm a Senior Marketing Analytics professional with 5+ years of experience bridging digital marketing, web analytics, and data-driven decision-making. This portfolio showcases my hands-on work across **Adobe Analytics, GA4, SQL, Tableau, and Looker Studio**—with a focus on **funnel diagnostics, campaign attribution, and customer journey insights**.
 
 ---
 
